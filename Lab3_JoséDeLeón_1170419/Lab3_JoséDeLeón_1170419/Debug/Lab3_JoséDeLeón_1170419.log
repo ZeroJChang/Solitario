@@ -1,0 +1,6 @@
+﻿  Carta.cpp
+  NodoCarta.cpp
+C:\Users\ZeroJChang\source\repos\Lab3_JoséDeLeón_1170419\Lab3_JoséDeLeón_1170419\NodoCarta.cpp(3,35): error C2511:  'NodoCarta::NodoCarta(Carta)': la función miembro sobrecargada no se ha encontrado en 'NodoCarta'
+C:\Users\ZeroJChang\source\repos\Lab3_JoséDeLeón_1170419\Lab3_JoséDeLeón_1170419\NodoCarta.h(3): message :  vea la declaración de 'NodoCarta'
+  Generando código...
+C:\Users\ZeroJChang\source\repos\Lab3_JoséDeLeón_1170419\Lab3_JoséDeLeón_1170419\NodoCarta.cpp(4,15): error C2597:  referencia no válida a miembro no static 'NodoCarta::valor'

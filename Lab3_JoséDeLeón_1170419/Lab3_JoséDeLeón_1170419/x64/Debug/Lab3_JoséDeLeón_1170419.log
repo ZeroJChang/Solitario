@@ -1,0 +1,7 @@
+﻿  MyForm.cpp
+C:\Users\ZeroJChang\source\repos\Lab3_JoséDeLeón_1170419\Lab3_JoséDeLeón_1170419\MyForm.h(533,13): warning C4244:  'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\ZeroJChang\source\repos\Lab3_JoséDeLeón_1170419\Lab3_JoséDeLeón_1170419\MyForm.h(532,12): warning C4101:  'c': variable local sin referencia
+C:\Users\ZeroJChang\source\repos\Lab3_JoséDeLeón_1170419\Lab3_JoséDeLeón_1170419\MyForm.h(554,13): warning C4244:  'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\ZeroJChang\source\repos\Lab3_JoséDeLeón_1170419\Lab3_JoséDeLeón_1170419\MyForm.h(553,12): warning C4101:  'c': variable local sin referencia
+  Carta.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  Lab3_JoséDeLeón_1170419.vcxproj -> C:\Users\ZeroJChang\source\repos\Lab3_JoséDeLeón_1170419\x64\Debug\Lab3_JoséDeLeón_1170419.exe
